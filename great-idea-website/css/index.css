@@ -113,3 +113,9 @@ hr {
 	  width: 150px;
 	  height: 30px;
   }
+  .container {
+	  display: inline-block;
+	  margin: 5%;
+
+  }
+	
